@@ -55,3 +55,18 @@ You’ll need to create a file named `__secret.dme` in the +secret subdirectory.
 All Goonstation contributions are licensed under [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/). See LICENSE for more details.
 
 **Important:** This means that code from Goonstation cannot be ported to codebases such as /tg/station. If you wish to port a specific feature, you must get the developer(s) to sublicense it to you under a license like AGPLv3. This also applies in the opposite direction for features ported from other codebases.
+
+
+
+
+# *VERY IMPORTANT NOTE, ONLY SENT FROM ME (GUARDSMAN)*
+*I DO NOT USE THIS SPECIFIC AREA ON GITHUB, I **WILL NOT** BE **TAKING ANY REQUESTS** FROM **ANYBODY** THAT ASKS,*
+
+- ***DO NOT ASK ME TO USE THIS, I HAVE NO PURPOSE IN USING IT, AND DO NOT REALLY OWN IT, THIS IS AN OLD FILE THAT I SPECIFICALLY TOOK FOR MY USAGE, WITH THE PERMISSIONS ABOVE.***
+- ***DO NOT ASK WHOEVER MADE THIS ABOUT THIS SPECIFIC VERSION, IT IS NOT REQUIRED, I DO NOT OWN IT.***
+- ***I DO NOT GIVE SUPPORT FOR WHOEVER ASKS, I DON'T KNOW ABOUT WHATEVER THIS IS, AND HAVE LIKELY MADE IT AROUND MULTIPLE YEARS BACKWARDS.***
+- ***I WILL NOT GIVE SUPPORT FOR ANYTHING THAT ASKS, AND I DO NOT CARE.***
+
+## ***Thank You for Understanding.***
+***Sincerely.***
+-# *-Guardsman.*
