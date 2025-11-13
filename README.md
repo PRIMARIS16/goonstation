@@ -69,4 +69,4 @@ All Goonstation contributions are licensed under [Creative Commons BY-NC-SA](htt
 
 ## ***Thank You for Understanding.***
 ***Sincerely.***
--# *-Guardsman.*
+	*-Guardsman.*
